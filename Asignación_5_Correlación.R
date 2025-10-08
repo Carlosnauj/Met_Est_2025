@@ -86,9 +86,9 @@ for(i in 1:4){
 # al ver los gráficos, cada conjunto muestra una relación diferente entre sus variables.
 
 # Calculamos la correlación de Pearson para cada conjunto
-for(i in 1:4){
+for(i in 1:4)
+{
+
   print(cor.test(anscombe[,i],
                  anscombe[,i+4]))
 }
-
-
