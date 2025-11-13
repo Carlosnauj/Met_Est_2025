@@ -49,3 +49,4 @@ barplot(gastos_ord, main = "Gastos mensuales",
         names.arg = c("otros","comestibles","alquiler","gimnasio","celular","transporte"))
 
 
+
