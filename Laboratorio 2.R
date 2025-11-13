@@ -38,3 +38,4 @@ boxplot(datos_meses,
                   "Jun","Jul","Ago","Sep","Oct",
                   "Nov","Dic"))
 
+
